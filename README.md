@@ -1,4 +1,4 @@
-# Hi, I'm Chanuthi Savithma
+ Hi, I'm Chanuthi Savithma
 
 Data Science graduate along with a background in Physical science(Mathematics , Statistics ) working across AI/ML, data engineering, and analytics.
 Apart from that I'm passionate about volunteering and community service
